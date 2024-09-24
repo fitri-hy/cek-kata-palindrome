@@ -1,0 +1,14 @@
+{
+  "name": "palindrome-checked",
+  "version": "1.0.0",
+  "description": "Aplikasi Pengecek Palindrome: Masukkan kalimat untuk memeriksa apakah terdapat kata yang merupakan palindrome. Kata palindrome yang ditemukan akan disimpan dan ditampilkan dalam riwayat.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "I-As Dev",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
